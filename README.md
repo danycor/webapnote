@@ -1,4 +1,4 @@
 webapnote
 =========
 
-Web Aplication - Apnote Project
+Web Aplication - APNOTE PROJECT
